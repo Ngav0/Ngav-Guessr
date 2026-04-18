@@ -10,12 +10,17 @@ A free crappy GeoGuessr alternative.
 3 You now have the option to use a custom map or the world mode
 
 
-To use the world mode you get random locations generated with a certain algorithm, sometimes an invalid location can occur. If it does you can simply type 'no' into the awnser box, and it will be skipped without counting towards your final score
+To use the world mode you get random locations generated with a certain algorithm, sometimes an invalid location can occur.
+
+If it does you can simply type 'no' into the awnser box, and it will be skipped without counting towards your final score
 
 
 Click the 'Open Street View' button to open the location, once you're done looking around press ctrl+shift+w to close your browser.
+
 You can now press the 'Open Map' button to reset you POV and make a guess.
+
 To make a guess you must right click on the location on google maps, you see coordinates like 48.30294584415413, 10.66422018247965. Click on it to copy it.
+
 Then go back to Ngav Guessr and paste the coordinates in the box. Then press 'Submit Guess'
 
 
