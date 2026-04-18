@@ -18,7 +18,7 @@ Click the 'Open Street View' button to open the location, once you're done looki
 
 You can now press the 'Open Map' button to reset you POV and make a guess.
 
-To make a guess you must right click on the location on google maps, you see coordinates like 48.30294584415413, 10.66422018247965. Click on it to copy it.
+To make a guess you must right click on the location on google maps, you'll see coordinates like 48.30294584415413, 10.66422018247965. Click on it to copy it.
 
 Then go back to Ngav Guessr and paste the coordinates in the box. Then press 'Submit Guess'
 
