@@ -42,6 +42,6 @@ It uses a CLI interface in which you can generate your own maps
 
 For example, you can choose option 5 to list the cities
 
-Then choose option 2 to select a city, and the amount of rounds you want.
+Then choose option 2 to select a city (Case sensitive, so the first letter needs to be a capital), and the amount of rounds you want.
 
 This wil then generate a map for you to use in Ngav Guessr
