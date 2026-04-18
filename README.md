@@ -11,7 +11,6 @@ A free crappy GeoGuessr alternative.
 
 
 To use the world mode you get random locations generated with a certain algorithm, sometimes an invalid location can occur.
-
 If it does you can simply type 'no' into the awnser box, and it will be skipped without counting towards your final score
 
 
