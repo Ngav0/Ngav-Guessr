@@ -1,7 +1,7 @@
 # Ngav Guessr
 A free crappy GeoGuessr alternative.
 
-# How to use Guessr:
+# How to use The Guessr:
 
 1 Download the zip containing the 2 executables
 
