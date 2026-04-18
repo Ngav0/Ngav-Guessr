@@ -44,4 +44,4 @@ For example, you can choose option 5 to list the cities
 
 Then choose option 2 to select a city, and the amount of rounds you want.
 
-This wil then generate a map for you to use in Ngav Guesrr
+This wil then generate a map for you to use in Ngav Guessr
