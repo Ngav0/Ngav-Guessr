@@ -4,7 +4,9 @@ A free crappy GeoGuessr alternative.
 # How to use Guessr:
 
 1 Download the zip containing the 2 executables
+
 2 Open Ngav Guessr.exe
+
 3 You now have the option to use a custom map or the world mode
 
 To use the world mode you get random locations generated with a certain algorithm, sometimes an invalid location can occur. If it does you can simply type 'no' into the awnser box, and it will be skipped without counting towards your final score
